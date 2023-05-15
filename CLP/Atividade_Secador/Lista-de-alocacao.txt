@@ -1,0 +1,13 @@
+Item  - Endereço Absoluto - Endereço Simbólico 
+
+01    -  I01              - S3 (NA) ligar Sistema
+02    -  I02              - S4 (NA) Desligar Sistema 
+03    -  I03              - S5 (NA) Desligar Emergencia
+04    -  I04              - S1 (NA) Sensor Secador
+05    -  I05              - S2 (NA) Sensor Final
+06    -  Q01              - Motor esteira (M1)
+07    -  Q02              - Resistencia (R1)
+08    -  Q03              - Motor secador (M2)
+09    -  Q04              - Cp
+10    -  Q06              - Contator Final
+11    -  Q07              - Temporizador
